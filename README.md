@@ -1,21 +1,4 @@
-working again ; ) 
-I am very busy at the moment so I would be very thankful for contributions and PR's
-
-## To do
-- [x] Double confirm when deleting conversation
-- [x] remember user preferences
-- [x] theme changer
-- [ ] loading / exporting a conversation
-- [ ] speech output and input (elevenlabs; ex: https://github.com/cogentapps/chat-with-gpt)
-- [ ] load files, ex: https://github.com/mayooear/gpt4-pdf-chatbot-langchain
-- [ ] better documentation
-- [ ] use react / faster backend language ? (newbies may be more confused and discouraged to use it)
- 
-# ChatGPT Clone
-feel free to improve the code / suggest improvements
-
-<img width="1470" alt="image" src="https://user-images.githubusercontent.com/98614666/232768610-fdeada85-3d21-4cf9-915e-a0ec9f3b7a9f.png">
-
+# MyGPT- ChatGPT clone
 
 ## Getting Started
 To get started with this project, you'll need to clone the repository and set up a virtual environment. This will allow you to install the required dependencies without affecting your system-wide Python installation.
